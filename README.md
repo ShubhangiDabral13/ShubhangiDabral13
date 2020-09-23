@@ -7,7 +7,7 @@ The zeal to explore the world of AI and to dive deep into machine Learning and d
 - 👯 I’m looking to collaborate on ...Machine Learning 
 - 🤔 I’m looking for help with ... NLP
 - 📫 How to reach me: ...ON my below mentioned profile.
-- 😄 Pronouns: ...Miss/She
+- 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...More data not always mean more accuracy.
 
 ### MY Social Profiles:
