@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-The zeal to explore the world of AI and to dive deep into machine Learning and deep Learning made me an eager and a religious Data Science practitioner. Still learning new skills and grasping more knowledge in this filed. Also navigating in Natural Language Processing(NLP).
+The zeal to explore the world of AI and to dive deep into Machine Learning and Deep Learning made me an eager and a religious Data Science practitioner. Still learning new skills and grasping more knowledge in this field. Also navigating through Natural Language Processing(NLP).
 
 
 - 🌱 I’m currently learning ...About Natural Language Processing
