@@ -12,6 +12,7 @@ The zeal to explore the world of AI and to dive deep into Machine Learning and D
 
 ### MY Social Profiles:
 * [Linkedln](https://www.linkedin.com/in/shubhangi-dabral-b79705145/)
+* [Tableau Public](https://public.tableau.com/profile/shubhangi.dabral#!/)
 * [Visual profile](https://sourcerer.io/shubhangidabral13)
 * [twitter](https://twitter.com/Shubhi_Dabral)
 * [Medium](https://medium.com/@shubhidabral)
