@@ -15,7 +15,7 @@ The zeal to explore the world of AI and to dive deep into Machine Learning and D
 * [Tableau Public](https://public.tableau.com/profile/shubhangi.dabral#!/)
 * [Visual profile](https://sourcerer.io/shubhangidabral13)
 * [twitter](https://twitter.com/Shubhi_Dabral)
-* [Medium](https://medium.com/@shubhidabral)
+* [Medium](https://shubhangidabral.medium.com/)
 
 ### My post:
 * [What is an outliers? How to detect and remove them? Which algorithms are senitive towards outliers.](https://medium.com/@shubhidabral/what-is-an-outliers-how-to-detect-and-remove-them-which-algorithm-are-sensitive-towards-outliers-2d501993d59)
