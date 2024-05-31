@@ -22,4 +22,4 @@ The zeal to explore the world of AI and to dive deep into Machine Learning and D
 
 
 
-For any queries  feel free to mail me at **shubhidabral@gmail.com** , i will be highly obliged.
+For any queries  feel free to mail me at **shubhangidabral1@gmail.com** , i will be highly obliged.
